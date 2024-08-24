@@ -2502,7 +2502,7 @@ ul.header-social li a {
 }.header-action-item ul li {
     border-right: 1px solid #dcdcdc;
     line-height: 18px;
-    padding-right: 15px;
+    padding-right: 10px;
     display: inline-block;
     margin-right: 15px;
 }
