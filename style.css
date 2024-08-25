@@ -2517,7 +2517,7 @@ ul.header-social li a {
     background-color: transparent;
     font-size: 14px;
     display: block;
-    color: #fff;
+    color: #e53935;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
     -ms-transition: all .3s ease-out;
@@ -5751,3 +5751,4 @@ h3 {
     font-size: 18px;
 }
 }
+
