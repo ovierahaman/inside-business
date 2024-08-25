@@ -2516,6 +2516,7 @@ ul.header-social li a {
     border: none;
     background-color: transparent;
     font-size: 14px;
+    font-weight: bold;
     display: block;
     color: #e53935;
     -webkit-transition: all .3s ease-out;
@@ -2534,8 +2535,19 @@ ul.header-social li a {
     -o-transition: all .3s ease-out;
     transition: all .3s ease-out;
 }
+
+.login-btn i:hover {
+    padding-right: 10px;
+    font-size: 14px;
+    color: #fafafa;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
 .login-btn:hover {
-    color: #e53935;
+    color: #ffffff;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
     -ms-transition: all .3s ease-out;
@@ -3147,7 +3159,7 @@ div#wrapper.open>.offcanvas-mask {
     display: block;
     font-family: Roboto, sans-serif;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 1000;
     text-transform: uppercase;
     -webkit-transition: all .9s ease-out;
     -moz-transition: all .9s ease-out;
