@@ -2539,7 +2539,7 @@ ul.header-social li a {
 .login-btn i:hover {
     padding-right: 10px;
     font-size: 14px;
-    color: #fafafa;
+    color: #0400ff;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
     -ms-transition: all .3s ease-out;
@@ -2547,7 +2547,7 @@ ul.header-social li a {
     transition: all .3s ease-out;
 }
 .login-btn:hover {
-    color: #ffffff;
+    color: #0400ff;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
     -ms-transition: all .3s ease-out;
